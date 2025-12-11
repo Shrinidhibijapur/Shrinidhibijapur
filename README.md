@@ -12,10 +12,6 @@
 
 ---
 
-<!-- ====================================================== -->
-<!-- ==================== ABOUT ME ======================== -->
-<!-- ====================================================== -->
-
 ## ⚡ About Me
 
 - 🌍 I enjoy building web projects and enhancing my problem-solving skills on **LeetCode** and **CodeChef**.  
@@ -69,23 +65,19 @@
 
 ---
 
-<!-- ====================================================== -->
-<!-- ==================== SOCIAL LINKS ==================== -->
-<!-- ====================================================== -->
-
 ## 🌐 Connect With Me
 
 <p align="center" style="display: flex; justify-content: center; gap: 85px;">
 
-<a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank" style="display:inline-block;">
+<a href="https://www.linkedin.com/in/shrinidhi-bijapur-269a2736b/" target="_blank" style="display:inline-block;">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL" target="_blank" style="display:inline-block;">
+<a href="mailto:shrinidhibijapur07@gmail.com" target="_blank" style="display:inline-block;">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTA" target="_blank" style="display:inline-block;">
+<a href="https://www.instagram.com/shrinidhi_bijapur/?hl=en" target="_blank" style="display:inline-block;">
   <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 
