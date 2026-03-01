@@ -69,7 +69,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 85px;">
 
-<a href="https://www.linkedin.com/in/shrinidhi-bijapur-269a2736b/" target="_blank" style="display:inline-block;">
+<a href="https://www.linkedin.com/in/shrinidhibijapur/" target="_blank" style="display:inline-block;">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
