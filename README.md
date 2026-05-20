@@ -95,7 +95,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shrinidhibijapur/Shrinidhibijapur/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shrinidhibijapur/Shrinidhibijapur/output/snake-dark.svg" alt="Snake animation" />
 </div>
 ---
 
