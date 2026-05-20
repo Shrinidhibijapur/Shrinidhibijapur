@@ -84,12 +84,19 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrinidhibijapur&show=commits,prs,issues,reviews,stars&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrinidhibijapur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=Shrinidhibijapur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shrinidhibijapur/Shrinidhibijapur/output/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ## 🌐 Connect With Me
@@ -106,4 +113,3 @@
 <a href="https://www.instagram.com/shrinidhi_bijapur/?hl=en" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
 </a>
-</p>
