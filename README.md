@@ -10,10 +10,10 @@
 
 ## About Me
 
-- 🤖 Designing and shipping ML pipelines and AI-powered applications
-- 🧠 Going deep into Deep Learning — from CNNs and LSTMs to Transformers
-- ⚙️ Building intelligent backend systems with FastAPI
-- 🚀 Headed toward Generative AI and agentic workflows
+- Designing and shipping ML pipelines and AI-powered applications
+- Exploring Deep Learning
+- Building intelligent backend systems with FastAPI
+- Headed toward Generative AI and agentic workflows
 
 ---
 
