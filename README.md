@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=32&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shrinidhi+Bijapur+%F0%9F%91%8B;Turning+ideas+into+AI+systems;Exploring+Deep+Learning+%26+GenAI" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=32&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shrinidhi+Bijapur+%F0%9F%91%8B;Building+AI+Systems+and+Simulations;Exploring+Deep+Learning+%26+GenAI" alt="Typing Animation" />
 
 <img src="https://komarev.com/ghpvc/?username=Shrinidhibijapur&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
